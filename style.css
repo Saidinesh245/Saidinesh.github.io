@@ -306,7 +306,7 @@ footer{
     text-align: center;
 }
 
-#Contact button{
+#Contact a{
     background-color: transparent;
     display: flex;
     justify-content: center;
@@ -314,6 +314,7 @@ footer{
     width: 25px; 
     border: none;
     margin: 25px;
+    text-decoration:none;
 }
 
 #Contact button:hover{
