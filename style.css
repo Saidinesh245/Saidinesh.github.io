@@ -246,7 +246,7 @@ section{
 #project-github-btn:hover{
     cursor: pointer;
     background-color: #39395e;
-    border:#23233a;
+    border:#23233a 2px solid;
 }
 
 #project-github-btn:active{
